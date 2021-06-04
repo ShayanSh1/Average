@@ -1,1 +1,1 @@
-# Average-
+# Average
