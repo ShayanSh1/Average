@@ -18,4 +18,3 @@ result = user_next_number / len(numbers)
 
 
 print(f'your result is {result}')
-
